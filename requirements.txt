@@ -1,0 +1,5 @@
+numpy
+gym
+absl-py
+stable_baselines3
+git+git://github.com/utiasSTARS/liegroups
